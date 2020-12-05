@@ -2,7 +2,7 @@
 	"Title": "Shrey Shah | Personal Webpage",
 	"Name": "Shrey Shah",
 	"Description": [
-		"Pre-final undergraduate student at BITS Pilani. Passionate about Machine learning, computer vision and love to develop applications based on them.",
+		"Pre-final undergraduate student at BITS Pilani. Passionate about Machine Learning, Computer Vision and love to develop applications based on them.",
 		"I like to travel, learn and innovate!"
 	],
 	"MainImage": "https://i.imgur.com/WAHRshK.jpg",
@@ -11,13 +11,13 @@
 	"AboutImage": "https://i.imgur.com/nzPHWMu.jpg",
 	"AboutContent": [
 		"I’m a pre-final undergraduate student at BITS Pilani pursuing dual major in Computer Science and Chemistry.",
-		"If you ever see me lost in my own thoughts, I am probably thinking how can technology be applied to solve our everyday problems.",
-		"I am passionate about machine learning and computer vision. I like to think about their different applications and try to experiement with it. I also love football, dancing and community services :)",
-		"As much as I love to work, I also like to travel and indulge into adventures!"
+		"If you ever see me lost in my thoughts, I am probably thinking about how can technology be applied to solve our everyday problems.",
+		"I am passionate about Machine Learning and Computer Vision. I like to think about their different applications and try to experiement with it. I also love football, dancing and community services :)",
+		"As much as I love to work and hustle, I also like to travel and indulge into adventures!"
 	],
 
 	"WorkContent": [
-		"I am currently full time Software Developer Engineer at Microsoft."
+		"I am currently open to work in the field of Machine Learning and Deep Learning. Interdisciplinary research in the field of Chemistry and Computer Science is what excites me"
 	],
 	"InternshipsStartLine": "Previously, I have interned with :",
 	"InternShips": [{
@@ -31,20 +31,24 @@
 	],
 	"ProjectsStartLine": " I believe that doing projects is one of the best way to learn. Some of the projects I did can be found here :",
 	"Projects": [{
-			"name": "EisenList",
-			"link": "https://github.com/adityaketkar/eisenlist"
+			"name": "Fashion Intelligence System",
+			"link": "https://github.com/imshreyshah/Fashion-Intelligence-System"
 		},
 		{
-			"name": "DelOr",
-			"link": "https://bitsdelor.wixsite.com/delor"
+			"name": "Clothing Category Prediction",
+			"link": "https://github.com/imshreyshah/Clothing-Category-Prediction-DeepFashion"
 		},
 		{
-			"name": "Alexa Music Companion",
-			"link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
+			"name": "Toy Compiler using C",
+			"link": "#"
 		},
 		{
-			"name": "Gatsby Personal Webpage",
-			"link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
+			"name": "Air Quality Analysis and Forecasting",
+			"link": "https://github.com/imshreyshah/air-quality-analysis-forecasting"
+		},
+		{
+			"name": "Real Time Identity Detection System",
+			"link": "#"
 		}
 	],
 
