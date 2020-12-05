@@ -31,7 +31,7 @@
 	],
 	"ProjectsStartLine": " I believe that doing projects is one of the best way to learn. Some of the projects I did can be found here :",
 	"Projects": [{
-			"name": "Fashion Intelligence System",
+			"name": "Fashion Intelligence System for trend forecasting",
 			"link": "https://github.com/imshreyshah/Fashion-Intelligence-System"
 		},
 		{
