@@ -6,7 +6,7 @@
 		"I like to travel, learn and innovate!"
 	],
 	"MainImage": "https://i.imgur.com/WAHRshK.jpg",
-	"BackgroundURL": "https://i.imgur.com/EIqzisO.gif",
+	"BackgroundURL": "https://i.imgur.com/Z4jCtNx.gif",
 
 	"AboutImage": "https://i.imgur.com/nzPHWMu.jpg",
 	"AboutContent": [
@@ -29,32 +29,33 @@
 			"link": "https://viitorcloud.com/"
 		}
 	],
-	"ProjectsStartLine": " I believe that doing projects is one of the best way to learn. Some of the projects I did can be found here :",
-	"Projects": [{
-			"name": "Fashion Intelligence System for trend forecasting",
-			"link": "https://github.com/imshreyshah/Fashion-Intelligence-System"
-		},
-		{
-			"name": "Clothing Category Prediction",
-			"link": "https://github.com/imshreyshah/Clothing-Category-Prediction-DeepFashion"
-		},
-		{
-			"name": "Toy Compiler using C",
-			"link": "#"
-		},
+	"ProjectsStartLine": " I believe that doing projects is one of the best ways to learn. Some of the projects I did can be found here :",
+	"Projects": [
 		{
 			"name": "Air Quality Analysis and Forecasting",
 			"link": "https://github.com/imshreyshah/air-quality-analysis-forecasting"
 		},
 		{
+			"name": "Fashion Intelligence System for trend forecasting",
+			"link": "https://github.com/imshreyshah/Fashion-Intelligence-System"
+		},
+		{
 			"name": "Real Time Identity Detection System",
-			"link": "#"
+			"link": "https://github.com/avi1299/face_recognition_system"			
+		},
+		{
+			"name": "Syntax Analyzer using C",
+			"link": "https://github.com/imshreyshah/syntax-analyzer"
+		},
+		{
+			"name": "Clothing Category Prediction",
+			"link": "https://github.com/imshreyshah/Clothing-Category-Prediction-DeepFashion"
 		}
 	],
 
-	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
-	"CV": "https://drive.google.com/file/d/1aGL_eKcxB5g0VKo5h1AfMbRU80bUozWF/view?usp=sharing",
-	"Resume": "https://drive.google.com/file/d/1_iKJhEBiAzFOx9egLdc_qc-0qlxKhyv-/view?usp=sharing",
+	"CVStartLine": "I am always looking for opportunities to do innovating and impactful work. Feel free to reach out if you want to work together :) ",
+	"CV": "https://drive.google.com/file/d/1OIXzXIetXf3lcUbF0ydnR2We3ZK03HXq/view?usp=sharing",
+	"Resume": "https://drive.google.com/file/d/1ZIZD0ivFSiu9nV-kvaNC6LMmOIM327cd/view?usp=sharing",
 
 	"emailid": "mailto:shreyshah00@gmail.com",
 	"linkedin": "https://linkedin.com/in/imshreyshah",
