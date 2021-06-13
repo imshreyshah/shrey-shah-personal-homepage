@@ -2,7 +2,7 @@
 	"Title": "Shrey Shah | Personal Webpage",
 	"Name": "Shrey Shah",
 	"Description": [
-		"Pre-final undergraduate student at BITS Pilani. Passionate about Machine Learning, Computer Vision and love to develop applications based on them.",
+		"Final year undergraduate student at BITS Pilani. Passionate about Software Development, Machine Learning, Computer Vision and love to develop Applications and Usecases based on them.",
 		"I like to travel, learn and innovate!"
 	],
 	"MainImage": "https://i.imgur.com/WAHRshK.jpg",
@@ -10,14 +10,14 @@
 
 	"AboutImage": "https://i.imgur.com/nzPHWMu.jpg",
 	"AboutContent": [
-		"I’m a pre-final undergraduate student at BITS Pilani pursuing dual major in Computer Science and Chemistry.",
+		"I’m a final-year undergraduate student at BITS Pilani, Pilani Campus where I am pursuing dual major in Computer Science and Chemistry.",
 		"If you ever see me lost in my thoughts, I am probably thinking about how can technology be applied to solve our everyday problems.",
-		"I am passionate about Machine Learning and Computer Vision. I like to think about their different applications and try to experiement with it. I also love football, dancing and community services :)",
+		"I am passionate about Software Development, Machine Learning and Computer Vision. I like to think about their different applications and try to experiement with it. I also love football, dancing and community services :)",
 		"As much as I love to work and hustle, I also like to travel and indulge into adventures!"
 	],
 
 	"WorkContent": [
-		"I am currently open to work in the field of Machine Learning and Deep Learning. Interdisciplinary research in the field of Chemistry and Computer Science is what excites me"
+		"I am currently open to work in the field of Machine Learning, Deep Learning and Software Development."
 	],
 	"InternshipsStartLine": "Previously, I have interned with :",
 	"InternShips": [{
@@ -29,7 +29,7 @@
 			"link": "https://viitorcloud.com/"
 		}
 	],
-	"ProjectsStartLine": " I believe that doing projects is one of the best ways to learn. Some of the projects I did can be found here :",
+	"ProjectsStartLine": " I believe that doing projects is one of the best ways to learn. Some of the projects I did can be found here:",
 	"Projects": [
 		{
 			"name": "Air Quality Analysis and Forecasting",
@@ -53,7 +53,7 @@
 		}
 	],
 
-	"CVStartLine": "I am always looking for opportunities to do innovating and impactful work. Feel free to reach out if you want to work together :) ",
+	"CVStartLine": "I am always looking for opportunities to do innovative and impactful work. Feel free to reach out if you want to work together :) ",
 	"CV": "https://drive.google.com/file/d/1-pyHjnP8XGMk1jcqPqDdytTuMekJkOsz/view?usp=sharing",
 	"Resume": "https://drive.google.com/file/d/1FH0CgpLrHo7Ugzllm0B_3xrWgcs9qyN7/view?usp=sharing",
 
