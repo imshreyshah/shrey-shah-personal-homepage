@@ -20,7 +20,12 @@
 		"I am currently open to work in the field of Machine Learning, Deep Learning and Software Development."
 	],
 	"InternshipsStartLine": "Previously, I have interned with :",
-	"InternShips": [{
+	"InternShips": [
+		{
+			"name": "Cisco Systems",
+			"link": "https://www.cisco.com/c/en_in/index.html"
+		},
+		{
 			"name": "SilverTouch Technologies LTD",
 			"link": "https://www.silvertouch.com/"
 		},
@@ -54,8 +59,8 @@
 	],
 
 	"CVStartLine": "I am always looking for opportunities to do innovative and impactful work. Feel free to reach out if you want to work together :) ",
-	"CV": "https://drive.google.com/file/d/1-pyHjnP8XGMk1jcqPqDdytTuMekJkOsz/view?usp=sharing",
-	"Resume": "https://drive.google.com/file/d/1FH0CgpLrHo7Ugzllm0B_3xrWgcs9qyN7/view?usp=sharing",
+	"CV": "https://drive.google.com/file/d/13_lqNBUcS4Nha3HQ0PEFkXhvjtJ4lJWX/view",
+	"Resume": "https://drive.google.com/file/d/1CgDNYkUeO8Y8OSUXPopjeI2OMozWnmfO/view?usp=sharing",
 
 	"emailid": "mailto:shreyshah00@gmail.com",
 	"linkedin": "https://linkedin.com/in/imshreyshah",
